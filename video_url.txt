@@ -1,0 +1,5 @@
+Player URL:
+https://offshorehosts.github.io/player/?list=https://raw.githubusercontent.com/offshorehosts/6934c247e47a3087/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/offshorehosts/6934c247e47a3087/refs/heads/master/github_master.m3u8
